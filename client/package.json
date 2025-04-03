@@ -17,7 +17,8 @@
     "tailwind-merge": "^2.2.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
-    "lucide-react": "^0.323.0"
+    "lucide-react": "^0.323.0",
+    "wouter": "^2.12.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.43",
